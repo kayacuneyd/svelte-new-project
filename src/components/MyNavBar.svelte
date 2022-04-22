@@ -11,14 +11,6 @@
             Open for new opportunities!
           </p>
         </div>
-<!--         <div class="col-sm-4 offset-md-1 py-4 text-center">
-          <h4 class="text-white">Contact</h4>
-          <ul class="list-unstyled">
-            <li><a href="mailto:kayacuneyd@gmail.com" class="text-white">Email me</a></li>
-          </ul>
-        </div> -->
-      </div>
-    </div>
 </div>
   <div class="navbar navbar-dark shadow-sm" id="uncollapsed">
     <div class="container">

@@ -43,21 +43,6 @@
     width: 8rem;
     height: 8rem;
   }
-  :root {
-    --clr-common-white: #fff;
-    --clr-common-black: #000;
-    --clr-body-heading: #161616;
-    --clr-body-heading2: #232323;
-    --clr-theme-1: #2161d6;
-    --clr-bg-gray: #f9f9f9;
-    --clr-bg-gray2: #efefef;
-    --clr-border-1: #474747;
-    --clr-border-2: #757575;
-    --clr-border-3: #303030;
-    --clr-border-4: #e5e5e5;
-    --clr-border-5: #d4d4d4;
-    --clr-border-6: #dfdfdf;
-  }
 
   .my-copyright-area {
     padding-top: 32px;
@@ -74,13 +59,6 @@
     padding-bottom: 10px;
   }
 
-  /*   a,
-  button {
-    color: inherit;
-    outline: medium none;
-    text-decoration: none !important;
-    transition: all 0.3s ease-out 0s;
-  } */
   .my-copyright p a {
     font-weight: 600;
     color: #228fce;

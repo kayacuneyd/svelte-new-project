@@ -9,13 +9,13 @@
     {
       freelancePlatform: "UpWork",
       platformImg: "static/images/upwork.png",
-      explanation: "You can check me on UpWork Freelancer Platform.",
+      explanation: "Check me on UpWork Freelancer Platform.",
       platformLink: "http://www.upwork.com/",
     },
     {
       freelancePlatform: "Rimuut",
       platformImg: "static/images/rimuut.png",
-      explanation: "Or you can hire me on Rimuut for your projects.",
+      explanation: "Or hire me on Rimuut for your projects.",
       platformLink: "http://www.rimuut.com/",
     },
   ];
@@ -28,10 +28,8 @@
     <div class="col">
       <div class="card shadow-sm p-1">
         <div class="card-body text-center">
-          <h5 class="card-title">{data.freelancePlatform}</h5>
-          <p class="card-text">
-            {data.explanation}
-          </p>
+          <h3 class="card-title">{data.freelancePlatform}</h3>
+          
           <a href={data.platformLink} target="_blank" class="btn platform-link"
             ><img
               src={data.platformImg}
@@ -39,6 +37,9 @@
               alt={data.freelancePlatform}
             /></a
           >
+          <p class="card-text">
+            {data.explanation}
+          </p>
         </div>
       </div>
     </div>

@@ -63,29 +63,4 @@
     font-weight: 600;
     color: #228fce;
   }
-  
-  ul {
-    margin: 0px !important;
-    padding: 0px !important;
-  }
-  .my-copyright ul li {
-    list-style: none;
-    display: inline-block;
-    padding-right: 20px;
-    margin-right: 18px;
-    border-right: 1px solid var(--clr-border-6);
-  }
-  .my-copyright ul li a {
-    font-size: 16px;
-    color: var(--clr-body-heading);
-    line-height: 1;
-  }
-  .my-copyright ul li a:hover {
-    color: var(--clr-theme-1);
-  }
-  .my-copyright ul li:last-child {
-    padding-right: 0px;
-    margin-right: 0px;
-    border-right: 0px;
-  }
 </style>

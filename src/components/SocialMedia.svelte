@@ -17,8 +17,7 @@
       "url": "mailto:kayacuneyd@gmail.com"
     }
   ]
-export let name;
-export let url;
+
 </script>
 <div class="footer-social-media pb-10 text-center">
   {#each socialData as data}

@@ -11,6 +11,8 @@
             Open for new opportunities!
           </p>
         </div>
+      </div>
+    </div>
 </div>
   <div class="navbar navbar-dark shadow-sm" id="uncollapsed">
     <div class="container">
